@@ -14,7 +14,7 @@ const finalScore = computed(() => store.finalScore ?? 0);
   </div>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .score {
   display: flex;
   flex-direction: column;

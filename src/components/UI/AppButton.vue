@@ -14,7 +14,7 @@ const variantFilled = computed(() => props.variant === "filled");
   </button>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .button {
   display: inline-flex;
   align-items: center;

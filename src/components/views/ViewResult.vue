@@ -53,7 +53,7 @@ const computerWinnerStyles = computed(
   </section>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .result__container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

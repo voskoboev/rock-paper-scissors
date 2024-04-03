@@ -55,7 +55,7 @@ const variantScissors = computed(
   </div>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .game-item {
   display: flex;
   align-items: center;

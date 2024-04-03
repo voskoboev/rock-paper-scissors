@@ -20,7 +20,7 @@ const store = useStore();
   </section>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .rules,
 .rules__list {
   display: flex;

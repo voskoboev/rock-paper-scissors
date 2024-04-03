@@ -36,7 +36,7 @@ const store = useStore();
   </section>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .game {
   display: flex;
   align-items: center;

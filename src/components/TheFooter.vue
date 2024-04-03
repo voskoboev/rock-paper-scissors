@@ -15,7 +15,7 @@ const store = useStore();
   </footer>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .footer__container {
   display: flex;
   align-items: center;

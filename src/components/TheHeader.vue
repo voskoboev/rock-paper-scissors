@@ -17,7 +17,7 @@ import TheScore from "@/components/TheScore.vue";
   </header>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .header {
   padding-top: 10px;
 }

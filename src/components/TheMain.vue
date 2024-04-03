@@ -14,7 +14,7 @@ const store = useStore();
   </main>
 </template>
 
-<style lang="css" scoped>
+<style lang="css">
 .main {
   flex-grow: 1;
   height: 100%;
